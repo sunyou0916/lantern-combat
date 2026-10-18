@@ -1,0 +1,332 @@
+{
+  "player_front": {
+    "frames": [
+      {
+        "file": "actors/player/player_front/00.png",
+        "duration": 0.11
+      },
+      {
+        "file": "actors/player/player_front/01.png",
+        "duration": 0.11
+      },
+      {
+        "file": "actors/player/player_front/02.png",
+        "duration": 0.11
+      },
+      {
+        "file": "actors/player/player_front/03.png",
+        "duration": 0.11
+      },
+      {
+        "file": "actors/player/player_front/04.png",
+        "duration": 0.11
+      },
+      {
+        "file": "actors/player/player_front/05.png",
+        "duration": 0.11
+      },
+      {
+        "file": "actors/player/player_front/06.png",
+        "duration": 0.11
+      },
+      {
+        "file": "actors/player/player_front/07.png",
+        "duration": 0.11
+      }
+    ],
+    "scale": 0.12,
+    "anchor": [
+      170,
+      533
+    ],
+    "black_colorkey": false
+  },
+  "player_side": {
+    "frames": [
+      {
+        "file": "actors/player/player_side/00.png",
+        "duration": 0.11
+      },
+      {
+        "file": "actors/player/player_side/01.png",
+        "duration": 0.11
+      },
+      {
+        "file": "actors/player/player_side/02.png",
+        "duration": 0.11
+      },
+      {
+        "file": "actors/player/player_side/03.png",
+        "duration": 0.11
+      },
+      {
+        "file": "actors/player/player_side/04.png",
+        "duration": 0.11
+      },
+      {
+        "file": "actors/player/player_side/05.png",
+        "duration": 0.11
+      },
+      {
+        "file": "actors/player/player_side/06.png",
+        "duration": 0.11
+      },
+      {
+        "file": "actors/player/player_side/07.png",
+        "duration": 0.11
+      }
+    ],
+    "scale": 0.12,
+    "anchor": [
+      165,
+      510
+    ],
+    "black_colorkey": false
+  },
+  "player_attack": {
+    "frames": [
+      {
+        "file": "actors/player/player_attack/00.png",
+        "duration": 0.3
+      },
+      {
+        "file": "actors/player/player_attack/01.png",
+        "duration": 0.12
+      },
+      {
+        "file": "actors/player/player_attack/02.png",
+        "duration": 0.18
+      },
+      {
+        "file": "actors/player/player_attack/03.png",
+        "duration": 0.06
+      },
+      {
+        "file": "actors/player/player_attack/04.png",
+        "duration": 0.09
+      },
+      {
+        "file": "actors/player/player_attack/05.png",
+        "duration": 0.1
+      },
+      {
+        "file": "actors/player/player_attack/06.png",
+        "duration": 0.14
+      },
+      {
+        "file": "actors/player/player_attack/07.png",
+        "duration": 0.3
+      }
+    ],
+    "scale": 0.12,
+    "anchor": [
+      174,
+      531
+    ],
+    "black_colorkey": false
+  },
+  "boss_idle": {
+    "frames": [
+      {
+        "file": "actors/boss/idle/00.png",
+        "duration": 0.18
+      },
+      {
+        "file": "actors/boss/idle/01.png",
+        "duration": 0.18
+      },
+      {
+        "file": "actors/boss/idle/02.png",
+        "duration": 0.18
+      },
+      {
+        "file": "actors/boss/idle/03.png",
+        "duration": 0.18
+      },
+      {
+        "file": "actors/boss/idle/04.png",
+        "duration": 0.18
+      },
+      {
+        "file": "actors/boss/idle/05.png",
+        "duration": 0.18
+      }
+    ],
+    "scale": 0.75,
+    "anchor": [
+      112,
+      100
+    ],
+    "black_colorkey": false
+  },
+  "boss_move": {
+    "frames": [
+      {
+        "file": "actors/boss/move/00.png",
+        "duration": 0.1
+      },
+      {
+        "file": "actors/boss/move/01.png",
+        "duration": 0.1
+      },
+      {
+        "file": "actors/boss/move/02.png",
+        "duration": 0.1
+      },
+      {
+        "file": "actors/boss/move/03.png",
+        "duration": 0.1
+      },
+      {
+        "file": "actors/boss/move/04.png",
+        "duration": 0.1
+      },
+      {
+        "file": "actors/boss/move/05.png",
+        "duration": 0.1
+      }
+    ],
+    "scale": 0.75,
+    "anchor": [
+      112,
+      100
+    ],
+    "black_colorkey": false
+  },
+  "boss_attack": {
+    "frames": [
+      {
+        "file": "actors/boss/attack/00.png",
+        "duration": 0.15
+      },
+      {
+        "file": "actors/boss/attack/01.png",
+        "duration": 0.2
+      },
+      {
+        "file": "actors/boss/attack/02.png",
+        "duration": 0.25
+      },
+      {
+        "file": "actors/boss/attack/03.png",
+        "duration": 0.1
+      },
+      {
+        "file": "actors/boss/attack/04.png",
+        "duration": 0.1
+      },
+      {
+        "file": "actors/boss/attack/05.png",
+        "duration": 0.1
+      }
+    ],
+    "scale": 0.75,
+    "anchor": [
+      112,
+      100
+    ],
+    "black_colorkey": false
+  },
+  "fx_lightning_target": {
+    "frames": [
+      {
+        "file": "effects/lightning/target/00.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/target/01.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/target/02.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/target/03.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/target/04.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/target/05.png",
+        "duration": 0.06
+      }
+    ],
+    "anchor": [
+      128,
+      294
+    ],
+    "scale": 0.72,
+    "black_colorkey": false
+  },
+  "fx_lightning_storm": {
+    "frames": [
+      {
+        "file": "effects/lightning/storm/00.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/storm/01.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/storm/02.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/storm/03.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/storm/04.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/storm/05.png",
+        "duration": 0.06
+      }
+    ],
+    "anchor": [
+      128,
+      294
+    ],
+    "scale": 0.72,
+    "black_colorkey": false
+  },
+  "fx_lightning_dash": {
+    "frames": [
+      {
+        "file": "effects/lightning/dash/00.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/dash/01.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/dash/02.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/dash/03.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/dash/04.png",
+        "duration": 0.06
+      },
+      {
+        "file": "effects/lightning/dash/05.png",
+        "duration": 0.06
+      }
+    ],
+    "anchor": [
+      128,
+      160
+    ],
+    "scale": 0.85,
+    "black_colorkey": false
+  }
+}
